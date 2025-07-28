@@ -1,6 +1,6 @@
 # gam_project
 
-A new Flutter project.
+A Staff Engagement, Recognition & Feedback System.
 
 ## Getting Started
 
