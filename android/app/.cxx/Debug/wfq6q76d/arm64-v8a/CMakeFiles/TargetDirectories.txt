@@ -1,0 +1,2 @@
+C:/gamification-main/android/app/.cxx/Debug/wfq6q76d/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/gamification-main/android/app/.cxx/Debug/wfq6q76d/arm64-v8a/CMakeFiles/rebuild_cache.dir

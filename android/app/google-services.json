@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514457677887",
+    "project_id": "gamifiedeeps",
+    "storage_bucket": "gamifiedeeps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514457677887:android:f8d82ca635841c0b90888a",
+        "android_client_info": {
+          "package_name": "com.example.gam_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHXmjh2xa4TGq7tDvzInP4O_6KPdL2hyE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
